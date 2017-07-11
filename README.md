@@ -1,2 +1,2 @@
 # XSYDFileManager<br />
-An easy-to-use C++ cross-platform File Manager(Read/Write)
+An easy-to-use C++ cross-platform File IO Manager
