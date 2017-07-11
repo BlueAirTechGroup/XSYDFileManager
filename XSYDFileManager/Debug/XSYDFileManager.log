@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\onedrivetemp\onedrive\projects\vs\xsydfilemanager\xsydfilemanager\main.cpp(5): warning C4101: 'MyContent': unreferenced local variable
+  XSYDFileManager.vcxproj -> E:\OneDriveTemp\OneDrive\Projects\VS\XSYDFileManager\Debug\XSYDFileManager.exe
+  XSYDFileManager.vcxproj -> E:\OneDriveTemp\OneDrive\Projects\VS\XSYDFileManager\Debug\XSYDFileManager.pdb (Partial PDB)
